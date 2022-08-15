@@ -23,12 +23,12 @@
   
 .topnav a:hover {
     background-color: #ddd;
-    color: black;
+    color: #333;
   }
 
 .topnav a.active {
     background-color: #04AA6D;
-    color: white;
+    color: #efefef;
   }
 
 .noBullets {
@@ -44,14 +44,11 @@
   padding: 15px;
 }
 
-.h2border {
+h2{
+  color: #333333;
   padding: 15px;
 }
 
-.h2headingcolor {
-  color: #333333;
-}
-
-body {
-  background-color: rgb(121, 24, 24);
+p {
+  color: #333;
 }
